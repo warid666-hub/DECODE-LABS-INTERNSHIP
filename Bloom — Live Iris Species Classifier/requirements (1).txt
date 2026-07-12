@@ -1,0 +1,3 @@
+customtkinter
+scikit-learn
+numpy
